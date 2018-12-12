@@ -7,6 +7,6 @@ public class Deck
 
     public Deck(Card unDealt, Card Dealt)
     {
-
+        ada
     }
 }
